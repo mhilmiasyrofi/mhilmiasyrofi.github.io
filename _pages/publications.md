@@ -31,11 +31,11 @@ On going
 
 * **CrossASR++: A Modular Differential Testing Framework for Automatic Speech Recognition**
 <br><span style="color:blue">Muhammad Hilmi Asyrofi</span>, Yang Zhou, and David Lo. 
-<br>ACM ESEC/FSE 2021 (CORE A\*) - Tool. Athens, Greece. [PDF](https://mhilmiasyrofi.github.io/papers/CrossASRv2.pdf)  [GitHub](https://github.com/soarsmu/CrossASRplus)  [Video](https://youtu.be/ddRk-f0QV-g)
+<br>ACM ESEC/FSE 2021 (CORE A\*) - Tool. Athens, Greece. [PDF](https://mhilmiasyrofi.github.io/papers/CrossASRv2.pdf)  [GitHub](https://github.com/soarsmu/CrossASRplus)  [Video](https://youtu.be/ddRk-f0QV-g) [DOI](https://doi.org/10.1145/3468264.3473124)
 
 * **BiasRV: Uncovering Biased Sentiment Predictions at Runtime**
 <br>Yang Zhou, <span style="color:blue">Muhammad Hilmi Asyrofi</span>, and David Lo. 
-<br>ACM ESEC/FSE 2021 (CORE A\*) - Tool. Athens, Greece. [PDF](https://mhilmiasyrofi.github.io/papers/BiasRV.pdf)  [GitHub](https://github.com/soarsmu/BiasRV)  [Video](https://youtu.be/WPe4Ml77d3U)
+<br>ACM ESEC/FSE 2021 (CORE A\*) - Tool. Athens, Greece. [PDF](https://mhilmiasyrofi.github.io/papers/BiasRV.pdf)  [GitHub](https://github.com/soarsmu/BiasRV)  [Video](https://youtu.be/WPe4Ml77d3U) [DOI](https://doi.org/10.1145/3468264.3473117)
 
 2020
 ======
