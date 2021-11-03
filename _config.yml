@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Trustworthy AI"
+title                    : "AI Enthusiast"
 title_separator          : "-"
 name                     : &name "Hilmi"
 description              : &description "Research Engineer @ Singapore"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hilmi"
   avatar           : "hilmi.png"
-  bio              : "Research Engineer"
+  bio              : "AI Research Engineer"
   location         : "Singapore"
   employer         :
   pubmed           : 
