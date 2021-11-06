@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /publications/
+permalink: /publication/
 title: ""
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ On going
 
 * **BiasFinder: Metamorphic Test Generation to Uncover Bias for Sentiment Analysis Systems**
 <br><span style="color:blue">Muhammad Hilmi Asyrofi</span>, Imam Nur Bani Yusuf, Hong Jin Kang, Ferdian Thung, Yang Zhou, and David Lo.
-<br>IEEE TSE (Major Revision). [PDF](https://mhilmiasyrofi.github.io/papers/BiasFinder.pdf) [GitHub](https://github.com/soarsmu/BiasFinder)
+<br>IEEE Transations on Software Engineering - Minor Revision (Q1, CCF Rank A, Impact Factor 6.11) [PDF](https://mhilmiasyrofi.github.io/papers/BiasFinder.pdf) [GitHub](https://github.com/soarsmu/BiasFinder)
 
 
 2021
