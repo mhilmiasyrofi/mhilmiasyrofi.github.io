@@ -51,6 +51,12 @@ tambah poster picirclet, cari di harddisk
   <br><br><img src='/images/portfolio/dagozilla.png' width="600" height="800">
   <br><br>
 
+* **Object Detection** \| Computer Vision
+  <br> Develop an bject detection using Faster RCNN. This project is a minor work during internship at Bukalapak as a Machine Learning Research Engineer
+  <br> Tech stack: Python, TensorFlow
+  <br><br><img src='/images/portfolio/object_detection.jpg' width="600" height="800">
+  <br><br>
+
 * **Alinamed** \| Software Developmet \| [Android](https://play.google.com/store/apps/details?id=com.alinamed.app) - [iOS](https://apps.apple.com/us/app/alinamed-lawan-covid-19/id1483608101) - [Web](https://alinamed.com)
   <br>A medical apps that connect doctor with patient through online booking.
   <br>Tech stack: Backend (PHP, Golang), Web Frontend (HTML, CSS), App Frontend (React Native), Infra (AWS)
