@@ -49,7 +49,13 @@ Honors and Awards
 * 2011	\| **Bronze Medal** \| Mathematics Olympiad at 2nd National Science Camp \| [Certificate](https://drive.google.com/file/d/1CLFcdlM1zQRmPmOGZg-SfBqkjaIzQqNE/view?usp=sharing)
   <br> Awarded by Ministry of Education - Indonesia
 
-  
+Certifications
+======
+*  Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+  <br>by DeepLearning.ai | [Credential](https://www.coursera.org/account/accomplishments/certificate/SGC98U3G8K6P)
+*  Neural Networks and Deep Learning
+  <br>by DeepLearning.ai | [Credential](https://www.coursera.org/account/accomplishments/certificate/D8GK6SD6Y5TG)
+
 <!-- Skills
 ======
 * Skill 1
