@@ -23,11 +23,11 @@ On going
 
 * **Can Differential Testing Improve Automatic Speech Recognition Systems?**
 <br><span style="color:blue">Muhammad Hilmi Asyrofi</span>, Zhou Yang, Jieke Shi, Chu Wei Quan, and David Lo. 
-<br>IEEE ICSME 2021 (CORE A) - NIER. Luxembourg. [PDF](https://mhilmiasyrofi.github.io/papers/ASREvolve.pdf) [GitHub](https://github.com/soarsmu/ASREvolve) 
+<br>IEEE ICSME 2021 (CORE A) - NIER. Luxembourg. [PDF](https://mhilmiasyrofi.github.io/papers/ASREvolve.pdf) [GitHub](https://github.com/soarsmu/ASREvolve) [DOI](https://doi.ieeecomputersociety.org/10.1109/ICSME52107.2021.00079)
 
 * **BiasHeal: On-the-Fly Black-Box Healing of Bias in Sentiment Analysis Systems**
 <br>Zhou Yang, Harshit Jain, Jieke Shi, <span style="color:blue">Muhammad Hilmi Asyrofi</span>, and David Lo. 
-<br>IEEE ICSME 2021 (CORE A) - NIER. Luxembourg.  [PDF](https://mhilmiasyrofi.github.io/papers/BiasHeal.pdf) [GitHub](https://github.com/yangzhou6666/BiasFinder/tree/self-healing)  
+<br>IEEE ICSME 2021 (CORE A) - NIER. Luxembourg.  [PDF](https://mhilmiasyrofi.github.io/papers/BiasHeal.pdf) [GitHub](https://github.com/yangzhou6666/BiasFinder/tree/self-healing) [DOI](https://doi.ieeecomputersociety.org/10.1109/ICSME52107.2021.00073)  
 
 * **CrossASR++: A Modular Differential Testing Framework for Automatic Speech Recognition**
 <br><span style="color:blue">Muhammad Hilmi Asyrofi</span>, Yang Zhou, and David Lo. 
