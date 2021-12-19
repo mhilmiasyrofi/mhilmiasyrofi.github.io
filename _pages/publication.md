@@ -8,17 +8,14 @@ redirect_from:
   - /markdown.html
 ---
 
-On going
-======
-
-
-* **BiasFinder: Metamorphic Test Generation to Uncover Bias for Sentiment Analysis Systems**
-<br><span style="color:blue">Muhammad Hilmi Asyrofi</span>, Imam Nur Bani Yusuf, Hong Jin Kang, Ferdian Thung, Yang Zhou, and David Lo.
-<br>IEEE Transations on Software Engineering - Minor Revision (Q1, CCF Rank A, Impact Factor 6.11) [PDF](https://mhilmiasyrofi.github.io/papers/BiasFinder.pdf) [GitHub](https://github.com/soarsmu/BiasFinder)
-
-
+<!-- On going
+====== -->
 2021
 ======
+
+* **BiasFinder: Metamorphic Test Generation to Uncover Bias for Sentiment Analysis Systems**
+<br><span style="color:blue">Muhammad Hilmi Asyrofi</span>, Yang Zhou, Imam Nur Bani Yusuf, Hong Jin Kang, Ferdian Thung, and David Lo.
+<br>IEEE Transations on Software Engineering (Q1, CCF Rank A, Impact Factor 6.11) [PDF](https://mhilmiasyrofi.github.io/papers/BiasFinder.pdf) [GitHub](https://github.com/soarsmu/BiasFinder) [Early Access DOI](https://doi.ieeecomputersociety.org/10.1109/TSE.2021.3136169)
 
 
 * **Can Differential Testing Improve Automatic Speech Recognition Systems?**
