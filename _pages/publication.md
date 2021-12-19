@@ -17,6 +17,10 @@ redirect_from:
 <br><span style="color:blue">Muhammad Hilmi Asyrofi</span>, Yang Zhou, Imam Nur Bani Yusuf, Hong Jin Kang, Ferdian Thung, and David Lo.
 <br>IEEE Transations on Software Engineering (Q1, CCF Rank A, Impact Factor 6.11) [PDF](https://mhilmiasyrofi.github.io/papers/BiasFinder.pdf) [GitHub](https://github.com/soarsmu/BiasFinder) [Early Access DOI](https://doi.ieeecomputersociety.org/10.1109/TSE.2021.3136169)
 
+* **Revisiting Neuron Coverage Metrics and Quality of Deep Neural Networks**
+<br>Zhou Yang, Jieke Shi, <span style="color:blue">Muhammad Hilmi Asyrofi</span>, and David Lo. 
+<br>IEEE SANER 2022 (CORE A) - RENE. Honolulu, Hawai. [PDF](https://mhilmiasyrofi.github.io/papers/RevisitingNeuronCoverage.pdf)  [GitHub](https://github.com/soarsmu/Revisiting_Neuron_Coverage)
+
 
 * **Can Differential Testing Improve Automatic Speech Recognition Systems?**
 <br><span style="color:blue">Muhammad Hilmi Asyrofi</span>, Zhou Yang, Jieke Shi, Chu Wei Quan, and David Lo. 
