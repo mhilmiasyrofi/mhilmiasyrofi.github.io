@@ -60,12 +60,12 @@ tambah poster picirclet, cari di harddisk
 * **Alinamed** \| Software Developmet \| [Android](https://play.google.com/store/apps/details?id=com.alinamed.app) - [iOS](https://apps.apple.com/us/app/alinamed-lawan-covid-19/id1483608101) - [Web](https://alinamed.com)
   <br>A medical apps that connect doctor with patient through online booking.
   <br>Tech stack: Backend (PHP, Golang), Web Frontend (HTML, CSS), App Frontend (React Native), Infra (AWS)
-  <br><br><img src='/images/portfolio/alinamed_1.jpg' width="300" height="600"> &ensp; &ensp;<img src='/images/portfolio/alinamed_2.jpg' width="300" height="600"><br><br>
+  <br><br><img src='/images/portfolio/alinamed_1.jpg' width="300" height="600"> &ensp; &ensp; <img src='/images/portfolio/alinamed_2.jpg' width="300" height="600"><br><br>
 
 * **Citra** \| Computer Vision \| [Source Code](https://github.com/fadhilkurnia/citra-app) - [Online Demo](https://citra-apps.firebaseapp.com/)
   <br>A web app to perform simple image processing techniques, i.e., Histogram equalization, Histogram match (specification), Character detection using chain code, and Thinning using Zhang Suen. These algorithms are fully coded from sratch using Javascript. This is an undergraduate course project for IF4073 Image Processing
   <br>Tech stack: Javascript
-  <br><br><img src='/images/portfolio/citra.png' width="300" height="600">
+  <br><br><img src='/images/portfolio/citra.png' width="300" height="600"> &ensp; &ensp; <br><br><img src='/images/portfolio/citra2.png' width="300" height="600">
   <br><br>
 
 * **Alumni Salman** \| Software Developmet
