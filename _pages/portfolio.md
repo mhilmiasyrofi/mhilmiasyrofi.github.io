@@ -20,10 +20,16 @@ redirect_from:
 masih copas, perlu diremake
 -->
 
-* **Custom Named Entity Recognition** \| NLP \| [Source Code](https://github.com/mhilmiasyrofi/AddressExtraction)
-  <br>Extract part of interest and street names from Indonesian address.
+* **Information Extraction** \| NLP \| [Source Code](https://github.com/mhilmiasyrofi/AddressExtraction)
+  <br>Extract part of interest (POI) and street names from Indonesian address.
   <br><u>Top 3%</u> (28 from 1,034) in Shopee Code League Data Science Challenge 2021. 
   <br>Tech stack: PyTorch, Numpy
+  <br>Example:
+  raw address | Extacted POI | Extracted street
+  --- | --- | --- 
+  karang mulia bengkel mandiri motor raya bosnik 21 blak kota | bengkel mandiri motor | raya bosnik
+  primkob pabri adiwerna | primkob pabri | \<null\>
+  jalan mh thamrin, sei rengas i kel. medan kota | \<null\> | jalan mh thamrin
   <br><img src='/images/portfolio/address_extraction_workflow.jpg' width="600" height="800">
   <br>
 
