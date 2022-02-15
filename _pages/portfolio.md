@@ -27,6 +27,12 @@ masih copas, perlu diremake
   <br><img src='/images/portfolio/address_extraction_workflow.jpg' width="600" height="800">
   <br>
 
+* **Photovoltaic Failure Detection** \| Computer Vision \| [Short Documentation](https://mhilmiasyrofi.github.io/files/PV_Failure_Detection.pdf)
+  <br>Automatic Failure Detection in Photovoltaic Solar Panel Systems
+  <br>Tech stack: PyTorch, OpenCV
+  <br><img src='/images/portfolio/pv_failure_detection.png' width="600" height="1200">
+  <br>
+
 * **Toxicity Detection (Content Moderation)** \| NLP \| [Source Code](https://github.com/mhilmiasyrofi/ToxicDetection) - [Documentation](https://drive.google.com/file/d/1lx_RycFdwI1gtT7rA_wJba3583kNjvKl/view?usp=sharing) - [Slide](https://drive.google.com/file/d/1haZsdoleTq4TGhXxRpRVVM58X49feTm0/view?usp=sharing)
   <br> A content moderation solution for a social media platform to highlight toxic content, i.e., any content that could be racist, derogatory, abusive or demeaning towards other members on the platform.
   <br>Tech stack: PyTorch, Numpy
