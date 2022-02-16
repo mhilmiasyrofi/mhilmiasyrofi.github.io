@@ -36,7 +36,7 @@ masih copas, perlu diremake
   jalan mh thamrin, sei rengas i kel. medan kota | \<null\> | jalan mh thamrin
   
   Architecture:
-  <br><img src='/images/portfolio/address_extraction_workflow.jpg' width="600" height="800">
+  <br><img src='/images/portfolio/shopee-address-extraction-architecture.jpg' width="700" height="840">
   <br>
 
 * **Photovoltaic Failure Detection** \| Computer Vision \| [Short Documentation](https://mhilmiasyrofi.github.io/files/PV_Failure_Detection.pdf)
