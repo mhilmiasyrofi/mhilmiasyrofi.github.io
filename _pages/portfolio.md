@@ -12,7 +12,10 @@ redirect_from:
   <br>Determine if two e-commerce products are the same by their images.
   <br><u>Silver medal - Top 5%</u> (101 from 2,426) in Kaggle's Featured Code Competition - Shopee Price Match Guarantee.
   <br>Tech stack: PyTorch, Numpy, TensorFlow
-  <br><img src='/images/portfolio/product_matching.jpg' width="600" height="1200">
+  <br>Example:
+  <br><img src='/images/portfolio/shopee-product-matching-example.jpg' width="550" height="1100">
+  <br>Architecture:
+  <br><img src='/images/portfolio/shopee-product-matching.jpg' width="700" height="1400">
   <br>
 
 <!-- TODO 
