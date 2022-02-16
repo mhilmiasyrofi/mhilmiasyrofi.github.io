@@ -20,12 +20,12 @@ Experience
 * **Research Engineer** at [SCIS SMU](https://scis.smu.edu.sg/)
   <br> Nov 2019 - present
   * Conducted research on Trustworthy AI supervised by ACM Distinguished Scientist Prof David Lo
-  * Published 6 papers in reputable software engineering conferences, i.e., ACM ESEC/FSE, IEEE SANER, and IEEE ICSME
-  * Experienced in maintaining various PyTorch and TensorFlow ML projects using Docker
+  * •	Published 7 papers in international conferences and journals, i.e., IEEE TSE (Q1, CCF Rank A, Impact Factor: 6.11),  ACM ESEC/FSE (CORE A*), IEEE ICSME (CORE A), and IEEE SANER (CORE A)
+  * Maintained various PyTorch and TensorFlow ML projects using Docker
 
 * **Co-Founder & CTO** at [Alinamed](https://alinamed.com/) 
   <br> Jan 2019 - July 2020
-  * Managed the software development lifecycle by collaborating across members to evolve SDLC, including functional requirements analysis, design specification, technical code review, project planning, and implementation of applications
+  * Managed the end-to-end software development lifecycle by collaborating across members to evolve SDLC, including functional requirements analysis, design specification, technical code review, project planning, and implementation of applications
   * Managed the selection of programming languages, frameworks, cloud, web servers, databases, and mobile
   * Won prestigious startup competitions, e.g., [1st Winner at WMM by Bank Mandiri](http://news.unair.ac.id/en/2020/12/02/unair-alumnis-startup-alinamed-wins-first-place-in-2020-wmm/), 1st Winner at Startup Weekend Surabaya, Winner at Tech-to-Impact by UK-ID Tech Hub. Secured IDR 750 million investment from Telkom Indonesia 
 
@@ -36,9 +36,9 @@ Experience
 
 Honors and Awards
 ======
-* 2021 \| **Silver Medal - Top 5% (101 from 2,426)** \| Shopee Price Match Guarantee \| [Kaggle Leaderboard](https://www.kaggle.com/c/shopee-product-matching/leaderboard)
+* 2021 \| **Silver Medal - Top 5% (101 from 2,426)** \| Shopee Product Matching \| [Kaggle Leaderboard](https://www.kaggle.com/c/shopee-product-matching/leaderboard)
   <br> The task was predicting similar e-commerce products by using product images and titles. I utilized EfficientNet and NFNet to extract feature embeddings from images and utilized BERT and TFIDF to extract feature embeddings from texts. I calculated the cosine distance between products and employed k-NN to find similar products
-* 2021 \|	**Top 3% (28 from 1,034)** \| Shopee Code League Data Science Challenge \| [Kaggle Leaderboard](https://www.kaggle.com/c/scl-2021-ds/leaderboard)
+* 2021 \|	**Top 3% (28 from 1,034)** \| Information Extraction - Shopee Data Science Challenge  \| [Kaggle Leaderboard](https://www.kaggle.com/c/scl-2021-ds/leaderboard)
   <br> The challenge was extracting Point of Interest (POI) names and street names from unformatted Indonesia addresses collected by Shopee. I framed the challenge as NER (Named Entity Recognition), where POI and street are the extracted entities. Then, I fine-tuned the IndoNLU model on the customized dataset.
 * 2019 \|	Gojek Upscale 02 for Indonesia's Data Science Enthusiast \| [Certificate](https://drive.google.com/file/d/18t8Cq0Epnf9T5pFpeuNNQWMxRf9d0LdX/view?usp=sharing)
   <br> A complete two-day experience from the Gojek data science team. It covered machine learning, data modeling, and Gojek data science practices. I was one of 20 chosen participants out of 1,000 applicants
