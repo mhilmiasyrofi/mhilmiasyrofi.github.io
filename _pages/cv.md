@@ -49,6 +49,13 @@ Honors and Awards
 * 2011	\| **Bronze Medal** \| Mathematics Olympiad at 2nd National Science Camp \| [Certificate](https://drive.google.com/file/d/1CLFcdlM1zQRmPmOGZg-SfBqkjaIzQqNE/view?usp=sharing)
   <br> Awarded by Ministry of Education - Indonesia
 
+Technical Skills
+======
+* **Programming**: Python, C++, React, Golang, Javascript, Java, C, PHP, HTML, CSS, C#, Arduino, Unity, Haskell
+* **ML Library**: PyTorch, Tensorflow, Keras, OpenCV, Scikit-Learn
+* **Cloud**: AWS, GCP, Microsft Azure
+* **Database**: MySQL, PostgreSQL, MongoDB
+
 Certifications
 ======
 *  Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
