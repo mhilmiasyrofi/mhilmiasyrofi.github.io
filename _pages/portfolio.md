@@ -25,11 +25,14 @@ masih copas, perlu diremake
   <br><u>Top 3%</u> (28 from 1,034) in Shopee Code League Data Science Challenge 2021. 
   <br>Tech stack: PyTorch, Numpy
   <br>Example:
+  
   raw address | Extacted POI | Extracted street
   --- | --- | --- 
   karang mulia bengkel mandiri motor raya bosnik 21 blak kota | bengkel mandiri motor | raya bosnik
   primkob pabri adiwerna | primkob pabri | \<null\>
   jalan mh thamrin, sei rengas i kel. medan kota | \<null\> | jalan mh thamrin
+  
+  Architecture:
   <br><img src='/images/portfolio/address_extraction_workflow.jpg' width="600" height="800">
   <br>
 
