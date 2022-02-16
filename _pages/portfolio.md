@@ -83,8 +83,7 @@ tambah poster picirclet, cari di harddisk
 * **Citra** \| Computer Vision \| [Source Code](https://github.com/fadhilkurnia/citra-app) - [Online Demo](https://citra-apps.firebaseapp.com/)
   <br>A web app to perform simple image processing techniques, i.e., Histogram equalization, Histogram match (specification), Character detection using chain code, and Thinning using Zhang Suen. These algorithms are fully coded from sratch using Javascript. This is an undergraduate course project for IF4073 Image Processing
   <br>Tech stack: Javascript
-  <br><br><img src='/images/portfolio/citra.png' width="300" height="600"> &ensp; &ensp; <br><br><img src='/images/portfolio/citra2.png' width="300" height="600">
-  <br><br>
+  <br><br><img src='/images/portfolio/citra.png' width="300" height="600"> &ensp; &ensp; <img src='/images/portfolio/citra2.png' width="300" height="600"><br><br>
 
 * **Alumni Salman** \| Software Developmet
   <br>An Android application for Masjid Salman ITB. My friends and me did all the software development process from requirement gathering until product delivery. This is an undergraduate course project for IF3250 Software Project
