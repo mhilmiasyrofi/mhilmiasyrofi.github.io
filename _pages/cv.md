@@ -17,7 +17,7 @@ Education
 
 Experience
 ======
-* **Research Engineer** at [SCIS SMU](https://scis.smu.edu.sg/)
+* **AI Research Engineer** at [SCIS SMU](https://scis.smu.edu.sg/)
   <br> Nov 2019 - present
   * Conducted research on Trustworthy AI supervised by ACM Distinguished Scientist Prof David Lo
   * •	Published 7 papers in international conferences and journals, i.e., IEEE TSE (Q1, CCF Rank A, Impact Factor: 6.11),  ACM ESEC/FSE (CORE A*), IEEE ICSME (CORE A), and IEEE SANER (CORE A)

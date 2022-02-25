@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "AI Enthusiast"
 title_separator          : "-"
 name                     : &name "Hilmi"
-description              : &description "Research Engineer @ Singapore"
+description              : &description "AI Enthusiast @ Singapore"
 url                      : https://mhilmiasyrofi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mhilmiasyrofi/mhilmiasyrofi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hilmi"
   avatar           : "hilmi.png"
-  bio              : "AI Research Engineer"
+  bio              : "AI Enthusiast"
   location         : "Singapore"
   employer         :
   pubmed           : 
