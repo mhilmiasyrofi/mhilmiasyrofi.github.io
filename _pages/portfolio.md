@@ -39,6 +39,21 @@ masih copas, perlu diremake
   <br><img src='/images/portfolio/shopee-address-extraction-architecture.jpg' width="700" height="840">
   <br>
 
+
+* **e-Commerce Product Attributes Extraction** \| NLP \| [Source Code](https://github.com/mhilmiasyrofi/product-attribute-extraction)
+  <br>Extract multi-attributes from the product titles in the Indonesian e-commerce platform.
+  <br>It's a sequence labelling task using BERT for Token Classification model. I employ this work to preprocess the product titles on the Shopee Product Matching challenge, which led to my first Kaggle's silver medal.
+  <br>Tech stack: PyTorch, Numpy
+  <br>Example:
+  <br><img src='/images/portfolio/ecommerce-product-title-attribute.jpg' width="700">
+  
+  
+  Architecture:
+  <br><img src='/images/portfolio/ecommerce-product-title-attribute-extraction-architecture.jpg' width="700" height="840">
+  <br>
+
+
+
 * **Photovoltaic Failure Detection** \| Computer Vision \| [Short Documentation](https://mhilmiasyrofi.github.io/files/PV_Failure_Detection.pdf)
   <br>Automatic Failure Detection in Photovoltaic Solar Panel Systems
   <br>Tech stack: PyTorch, OpenCV
