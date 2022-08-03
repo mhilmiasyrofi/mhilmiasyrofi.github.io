@@ -17,10 +17,18 @@ Education
 
 Experience
 ======
+* **Data Scientist** at [PropertyGuru](https://www.propertyguru.com.sg), Singapore
+  <br> June 2022 - present
+  * Helping my friends to find home easier by ensuring good quality product listing :)
+  * Helping some clients (e.g. Bank and Real Estate Consultant) to provide property valuation of an unstructured address in Malaysia by leveraging machine learning techniques
+  * Helping my colleagues to fix incorrect 240k listing data that leads to more accurate product recommendation with estimated revenue $350k SGD
+  
+
+
 * **AI Research Engineer** at [SCIS SMU](https://scis.smu.edu.sg/), Singapore
-  <br> Nov 2019 - present
+  <br> Nov 2019 - May 2022
   * Conducted research on Trustworthy AI supervised by ACM Distinguished Scientist Prof David Lo
-  * •	Published 7 papers in international conferences and journals, i.e., IEEE TSE (Q1, CCF Rank A, Impact Factor: 6.11),  ACM ESEC/FSE (CORE A*), IEEE ICSME (CORE A), and IEEE SANER (CORE A)
+  * Published 7 papers in international conferences and journals, i.e., IEEE TSE (Q1, CCF Rank A, Impact Factor: 6.11),  ACM ESEC/FSE (CORE A*), IEEE ICSME (CORE A), and IEEE SANER (CORE A)
   * Maintained various PyTorch and TensorFlow ML projects using Docker
 
 * **Co-Founder & CTO** at [Alinamed](https://alinamed.com/), Indonesia
