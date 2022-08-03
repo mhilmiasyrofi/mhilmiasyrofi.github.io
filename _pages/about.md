@@ -10,7 +10,9 @@ redirect_from:
 Hey there <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='25px'>
 ======
 <br>
-🧑‍💻 I'm Hilmi, and I love being a data scientist at [PropertyGuru](https://www.propertyguru.com.sg) (NSYE: PGRU). 📝 [Resume](https://mhilmiasyrofi.github.io/files/Resume.pdf)  📚 [Portfolio](https://mhilmiasyrofi.github.io/portfolio/)
+🧑‍💻 I'm Hilmi, and I love being a data scientist at [PropertyGuru](https://www.propertyguru.com.sg) (NSYE: PGRU).
+
+📝 [Resume](https://mhilmiasyrofi.github.io/files/Resume.pdf)  📚 [Portfolio](https://mhilmiasyrofi.github.io/portfolio/)
 
 I have a strong analytics and programming background 📈. I published seven papers on Trustworthy Artificial Intelligence in reputable international conferences and journals (supervised by [ACM Distinguished Scientist Prof David Lo](http://www.mysmu.edu/faculty/davidlo/)). I participated in some Kaggle competitions during my free time. I won a silver medal 🥈 in a product matching challenge, trying to categorize similar e-commerce products based on their images and product titles.
 

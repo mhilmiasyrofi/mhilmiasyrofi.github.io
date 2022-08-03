@@ -13,7 +13,7 @@ Education
 ======
 * **B.Eng. in Computer Science**, Institut Teknologi Bandung, 2019
   * Cum Laude with GPA 3.68 / 4.00 ([transcript](https://drive.google.com/drive/folders/1-yw_rbIm_9bX2zyZEuCxFirRSYCGKSbH?usp=sharing))
-  * I was honored as [an inspiring graduate](https://stei.itb.ac.id/en/blog/2019/08/12/8782/) because of my outstanding academic and non-academic achievements
+  * I was honored as [an inspiring graduate](https://stei.itb.ac.id/en/blog/2019/08/12/8782/) because of my outstanding academic and extracurricular achievements
 
 Experience
 ======
