@@ -17,12 +17,11 @@ Education
 
 Experience
 ======
-* **Data Scientist** at [PropertyGuru](https://www.propertyguru.com.sg), Singapore
+* **Machine Learning Engineer** at [PropertyGuru](https://www.propertyguru.com.sg), Singapore
   <br> June 2022 - present
-  * Helping my friends to find home easier by ensuring good quality product listing :)
-  * Helping some clients (e.g. Bank and Real Estate Consultant) to provide property valuation of an unstructured address in Malaysia by leveraging machine learning techniques
-  * Helping my colleagues to fix incorrect 240k listing data that leads to more accurate product recommendation with estimated revenue $350k SGD
-  
+  * Developed AVM (Automatic Valuation Model) to provide a current estimate of market value for a specific property by analyzing property information such as comparable property transactions, property characteristics, and price trends. The AVM’s customers are Banks and Real Estate Consultants.
+  * Developed Address Matching system to synchronize a physical location with address records in PropertyGuru data warehouse. PropertyGuru acquires many property companies (and 3rd party data) and each of them has different address format. By leveraging this address matching system, we are able to join them to provide rich information from an address, e.g. property information, property valuation, property price trend, and property risk assessment.
+  * Led cross-team collaboration (with DE, and SE) to solve inaccurate address of active listings in Malaysia. Fixed 150k inaccurate listing data that leads to more accurate location-based listing recommendation with estimated 6 months revenue more than USD100k
 
 
 * **AI Research Engineer** at [SCIS SMU](https://scis.smu.edu.sg/), Singapore
