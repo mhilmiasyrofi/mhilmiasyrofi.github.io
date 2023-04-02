@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hilmi"
   avatar           : "hilmi.png"
-  bio              : "AI Enthusiast"
+  bio              : "Kaggle Data Science Expert"
   location         : "Singapore"
   employer         :
-  pubmed           : 
-  googlescholar    : "http://scholar.google.com/citations?user=BrkfL7UAAAAJ&hl=en"
+  pubmed           :
+  googlescholar    :  # "https://www.semanticscholar.org/author/Muhammad-Hilmi-Asyrofi/1626115661"
   email            :  # "mhilmiasyrofi@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        : # "mhilmiasyrofi"
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # "https://sg.linkedin.com/in/mhilmiasyrofi"
+  linkedin         : "https://www.linkedin.com/in/mhilmiasyrofi/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
