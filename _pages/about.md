@@ -38,5 +38,5 @@ I'm a high achiever. I'm the first person in my family that earns a degree in en
   <img align="left" alt="Hilmi's Google Scholar" width="120px" style="margin: 5px; margin-top: 7px;" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" />
 </a>
 <a>
-  <img align="left" width="120px" style="margin: 5px; margin-top: 7px;" src="https://visitor-badge.glitch.me/badge?page_id=mhilmiasyrofi.mhilmiasyrofi" />
+  <img align="left" width="90px" style="margin: 5px; margin-top: 7px;" src="https://visitor-badge.glitch.me/badge?page_id=mhilmiasyrofi.mhilmiasyrofi" />
 </a>
