@@ -3,14 +3,14 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 Hey there <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='25px'>
 ======
 <br>
-🧑‍💻 I'm Hilmi, and I love being a Machine Learning Engineer at [PropertyGuru](https://www.propertyguru.com.sg) (NSYE: PGRU).
+🧑‍💻 I'm Hilmi, a Kaggle Data Science Expert with 4 years of experience delivering high-impact works in the IT industry. Currently, I'm working as a Machine Learning Engineer at [PropertyGuru](https://www.propertyguru.com.sg) Singapore (NSYE: PGRU),  productionizing machine learning projects to generate revenue and to optimize the business.
 
 📝 [Resume](https://mhilmiasyrofi.github.io/files/Resume.pdf)  📚 [Portfolio](https://mhilmiasyrofi.github.io/portfolio/)
 
@@ -24,3 +24,19 @@ I'm a high achiever. I'm the first person in my family that earns a degree in en
 
 📌 Please do not hesitate to reach out if you want to discuss data science or machine learning topics with me.
 
+<a href="https://www.linkedin.com/in/mhilmiasyrofi/">
+  <img align="left" alt="Hilmi's LinkedIn" width="22px" style="margin: 5px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://www.kaggle.com/mhilmiasyrofi">
+  <img align="left" alt="Hilmi's Kaggle" width="60px" style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
+</a>
+<a href="https://leetcode.com/mhilmiasyrofi/">
+  <img align="left" alt="Hilmi's Leetcode" width="80px" style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" />
+</a>
+<a href="https://www.semanticscholar.org/author/Muhammad-Hilmi-Asyrofi/1626115661">
+  <img align="left" alt="Hilmi's Google Scholar" width="120px" style="margin: 5px; margin-top: 7px;" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" />
+</a>
+<a>
+  <img align="left" width="120px" style="margin: 5px; margin-top: 7px;" src="https://visitor-badge.glitch.me/badge?page_id=mhilmiasyrofi.mhilmiasyrofi" />
+</a>
