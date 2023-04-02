@@ -11,29 +11,29 @@ redirect_from:
 
 Experience
 ======
-* **Machine Learning Engineer** at [PropertyGuru](https://www.propertyguru.com.sg) - Data Science Center of Excellence, Singapore
+**Machine Learning Engineer** at [PropertyGuru](https://www.propertyguru.com.sg) - Data Science Center of Excellence, Singapore
   <br> June 2022 - present
   * Developed an Automatic Valuation Model that analyzes historical sales transactions, property characteristics, and price trends to estimate the current market value for a specific property. Contributed to the company's revenue by **productionizing the solution as a sellable system to external clients**, including banks and real estate consultants.
-  * Developed an Address Matching system to synchronize a physical location with address records in the data warehouse. Leveraged advance natural language processing techniques to aggregate data from multiple sources to provide rich information from an address, e.g. property information, property valuation, and property risk assessment. Improved the matching rate by more than 70% compared to the legacy SQL-based string matching.
-  * Led cross-team collaboration with data engineers and software engineers to solve inaccurate address listings in Malaysia. Fixed 150k inaccurate listing data, resulting in more accurate location-based listing recommendations and an estimated six-month revenue increase of over USD100k.
-  * Led an initiative to incorporate Trustworthy metrics in the machine learning systems. Detected and performed root cause analysis on unacceptable fluctuating predictions in a highly critical product. As a result, the volatile predictions were reduced by more than 90%.
+  * Developed an Address Matching system to synchronize a physical location with address records in the data warehouse. Leveraged advance natural language processing techniques to **aggregate data from multiple sources to provide rich information from an address**, e.g. property information, property valuation, and property risk assessment. Improved the matching rate by more than 70% compared to the legacy SQL-based string matching.
+  * **Led cross-team collaboration** with data engineers and software engineers to solve inaccurate address listings in Malaysia. Fixed 150k inaccurate listing data, resulting in more accurate location-based listing recommendations and an estimated six-month revenue increase of over USD100k.
+  * **Led an initiative to incorporate Trustworthy metrics** in the machine learning systems. Detected and performed root cause analysis on unacceptable fluctuating predictions in a highly critical product. As a result, the volatile predictions were reduced by more than 90%.
 
-* **AI Research Engineer** at [SCIS SMU](https://scis.smu.edu.sg/), Singapore
+**AI Research Engineer** at [SCIS SMU](https://scis.smu.edu.sg/), Singapore
   <br> Nov 2019 - May 2022
   * Conducted research on Trustworthy AI supervised by ACM Distinguished Scientist Prof David Lo
   * Published 7 papers in international conferences and journals, i.e., IEEE TSE (Q1, CCF Rank A, Impact Factor: 6.11),  ACM ESEC/FSE (CORE A*), IEEE ICSME (CORE A), and IEEE SANER (CORE A)
-  * Maintained various PyTorch and TensorFlow ML projects using Docker
+  * Maintained various PyTorch and TensorFlow ML projects using Docker.
 
-* **Co-Founder & CTO** at [Alinamed](https://alinamed.com/), Indonesia
+**Co-Founder & CTO** at [Alinamed](https://alinamed.com/), Indonesia
   <br> Jan 2019 - July 2020
   * Managed the end-to-end software development lifecycle by collaborating across members to evolve SDLC, including functional requirements analysis, design specification, technical code review, project planning, and implementation of applications
   * Managed the selection of programming languages, frameworks, cloud, web servers, databases, and mobile
-  * Won prestigious startup competitions, e.g., [1st Winner at WMM by Bank Mandiri](http://news.unair.ac.id/en/2020/12/02/unair-alumnis-startup-alinamed-wins-first-place-in-2020-wmm/), 1st Winner at Startup Weekend Surabaya, Winner at Tech-to-Impact by UK-ID Tech Hub. Secured IDR 750 million investment from Telkom Indonesia
+  * Won prestigious startup competitions, e.g., [1st Winner at WMM by Bank Mandiri](http://news.unair.ac.id/en/2020/12/02/unair-alumnis-startup-alinamed-wins-first-place-in-2020-wmm/), 1st Winner at Startup Weekend Surabaya, Winner at Tech-to-Impact by UK-ID Tech Hub. Secured IDR 750 million investment from Telkom Indonesia.
 
-* **Machine Learning Engineer** at [Bukalapak](https://www.bukalapak.com/), Indonesia
+**Machine Learning Engineer** at [Bukalapak](https://www.bukalapak.com/), Indonesia
   <br> May 2018 - Aug 2018 (Internship)
   * Developed object detection as a part of the "search by image" feature. It’s implemented using Faster RCNN on Tensorflow
-  * Developed character recognition to detect seller's information (e.g., phone number and Instagram username) in the e-commerce product image. Localized text lines using CTPN (Connectionist Text Proposal Network). Implemented post-processing techniques on OpenCV to combine several words within the same context
+  * Developed character recognition to detect seller's information (e.g., phone number and Instagram username) in the e-commerce product image. Localized text lines using CTPN (Connectionist Text Proposal Network). Implemented post-processing techniques on OpenCV to combine several words within the same context.
 
 Honors and Awards
 ======
@@ -61,7 +61,7 @@ Technical Skills
 
 Education
 ======
-* **B.Eng. in Computer Science**, Institut Teknologi Bandung, 2019
+**B.Eng. in Computer Science**, Institut Teknologi Bandung, 2019
   * Cum Laude with GPA 3.68 / 4.00 ([transcript](https://drive.google.com/drive/folders/1-yw_rbIm_9bX2zyZEuCxFirRSYCGKSbH?usp=sharing))
   * I was honored as [an inspiring graduate](https://stei.itb.ac.id/en/blog/2019/08/12/8782/) because of my outstanding academic and extracurricular achievements
 
