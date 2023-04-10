@@ -22,7 +22,7 @@ Experience
   <br> Nov 2019 - May 2022
   * Conducted research on Trustworthy AI supervised by ACM Distinguished Scientist Prof David Lo
   * Published 7 papers in international conferences and journals, i.e., IEEE TSE (Q1, CCF Rank A, Impact Factor: 6.11),  ACM ESEC/FSE (CORE A*), IEEE ICSME (CORE A), and IEEE SANER (CORE A)
-  * Maintained various PyTorch and TensorFlow ML projects using Docker.
+  * Experienced in maintaining various TensorFlow and PyTorch machine learning projects using Docker running on Nvidia DGX Station AI Supercomputer .
 
 **Co-Founder & CTO** at [Alinamed](https://alinamed.com/), Indonesia
   <br> Jan 2019 - July 2020
