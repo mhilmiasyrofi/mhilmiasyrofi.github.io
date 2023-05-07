@@ -34,7 +34,7 @@ I'm a high achiever. I'm the first person in my family that earns a degree in en
 <a href="https://leetcode.com/mhilmiasyrofi/">
   <img align="left" alt="Hilmi's Leetcode" width="80px" style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" />
 </a>
-<a href="https://www.semanticscholar.org/author/Muhammad-Hilmi-Asyrofi/1626115661">
+<a href="https://scholar.google.com/citations?hl=en&gmla=AHoSzlVjlJfs9P5F7daxNp8ox9wq_Q8KX_J9v7JKRxiSyoHyzck5IJ-ymOODTLiaDxOzn2jiYqA6uSFGDfCuk63g7swb&user=6F-76moAAAAJ">
   <img align="left" alt="Hilmi's Google Scholar" width="120px" style="margin: 5px; margin-top: 7px;" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" />
 </a>
 <a>
