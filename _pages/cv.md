@@ -27,7 +27,7 @@ Experience
 **Co-Founder & CTO** at [Alinamed](https://alinamed.com/), Indonesia
   <br> Jan 2019 - July 2020
   * Managed the end-to-end software development lifecycle by collaborating across members to evolve SDLC, including functional requirements analysis, design specification, technical code review, project planning, and implementation of applications
-  * Managed the selection of programming languages, frameworks, cloud, web servers, databases, and mobile
+  * Managed the selection of programming languages, frameworks, cloud, web servers, databases, and mobile apps
   * Won prestigious startup competitions, e.g., [1st Winner at WMM by Bank Mandiri](http://news.unair.ac.id/en/2020/12/02/unair-alumnis-startup-alinamed-wins-first-place-in-2020-wmm/), 1st Winner at Startup Weekend Surabaya, Winner at Tech-to-Impact by UK-ID Tech Hub. Secured IDR 750 million investment from Telkom Indonesia.
 
 **Machine Learning Engineer** at [Bukalapak](https://www.bukalapak.com/), Indonesia
@@ -56,17 +56,20 @@ Technical Skills
 ======
 * **Programming**: Python, C++, JavaScript, Java, C, PHP, HTML, CSS, React Native, Golang,
 * **ML Library**: PyTorch, TensorFlow, Keras, OpenCV, Scikit-Learn
-* **Cloud**: AWS, GCP, Microsft Azure
+* **Cloud**: AWS, GCP, Microsoft Azure
 * **Database**: MySQL, PostgreSQL, MongoDB
 
 Education
 ======
 **B.Eng. in Computer Science**, Institut Teknologi Bandung, 2019
-  * Cum Laude with GPA 3.68 / 4.00 ([transcript](https://drive.google.com/drive/folders/1-yw_rbIm_9bX2zyZEuCxFirRSYCGKSbH?usp=sharing))
-  * I was honored as [an inspiring graduate](https://stei.itb.ac.id/en/blog/2019/08/12/8782/) because of my outstanding academic and extracurricular achievements
+  * Cum Laude with GPA 3.68 / 4.00
+  * I am proud to have earned the distinction of being recognized as **an inspiring graduate**, a testament to my exceptional record of [academic excellence and extracurricular accomplishments](https://stei.itb.ac.id/en/blog/2019/08/12/8782/)
+
 
 Certifications
 ======
+*  AWS Certified Solution Architect - Associate
+  <br>by Amazon Web Services | [Credential](https://www.credly.com/badges/15373755-fb90-4a2c-afc4-1be57cea8475/public_url)
 *  Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
   <br>by DeepLearning.ai | [Credential](https://www.coursera.org/account/accomplishments/certificate/SGC98U3G8K6P)
 *  Neural Networks and Deep Learning
