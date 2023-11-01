@@ -10,22 +10,21 @@ redirect_from:
 Hey there <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='25px'>
 ======
 <br>
-🧑‍💻 I'm Hilmi, a Kaggle Data Science Expert with 4 years of experience delivering high-impact works in the IT industry. Currently, I'm working as a Machine Learning Engineer at [PropertyGuru](https://www.propertyguru.com.sg) Singapore (NSYE: PGRU),  productionizing machine learning projects to generate revenue and to optimize the business.
+🧑‍💻 I'm Hilmi, a seasoned Data Scientist with extensive experience in architecting machine learning solutions in the Cloud. Currently, I hold the role of a Machine Learning Engineer at PropertyGuru Singapore, where I specialize in transforming machine learning projects into revenue-generating solutions while optimizing business operations. Notably, I have successfully delivered a B2B solution known as [the Automated Valuation Model, which is actively utilized by enterprise customers](https://www.linkedin.com/posts/knight-frank-malaysia_knightfrank-knightfrankmalaysia-partnersinproperty-activity-7051073263258529792-5Lct?utm_source=share&utm_medium=member_desktop), including banks and real estate consultants in Malaysia.
+
+📊 I possess a robust background in analytics and programming. I've made significant contributions to the field by publishing seven papers on Trustworthy Artificial Intelligence in top-tier international conferences and journals, under the guidance of [ACM Distinguished Scientist Prof David Lo](http://www.mysmu.edu/faculty/davidlo/). Additionally, my expertise in Data Science, particularly in the domains of NLP (Natural Language Processing) and CV (Computer Vision), is exemplified by my profile as a [Kaggle Competitions Expert](https://www.kaggle.com/mhilmiasyrofi/competitions). I also hold an AWS Certified Solution Architect certification, affirming my ability to effectively productionize machine learning projects.
 
 📝 [Resume](https://mhilmiasyrofi.github.io/files/Resume.pdf)  📚 [Portfolio](https://mhilmiasyrofi.github.io/portfolio/)
 
-I have a strong analytics and programming background 📈. I published seven papers on Trustworthy Artificial Intelligence in reputable international conferences and journals (supervised by [ACM Distinguished Scientist Prof David Lo](http://www.mysmu.edu/faculty/davidlo/)). I'm a [Kaggle Competitions Expert](https://www.kaggle.com/mhilmiasyrofi/competitions) after winning 2 medals: (1) a silver medal 🥈 in an NLP (Natural Language Processing) + CV (Computer Vision) competition, i.e. recommending similar e-commerce products by analyzing their images and product titles; (2) a bronze medal 🥉 in an NLP competition, i.e. evaluating the language proficiency of essays written by students.
+🌱 My journey began in a small rice-farming village in Indonesia, where I nurtured a passion for exploration. Despite my humble origins, I relentlessly pursued excellence, earning numerous awards in mathematics, statistics, and research during my junior and senior high school years 🏅🏅🏅
 
-I grew up chasing grasshoppers in a small rice-farming village in Indonesia 🏞️. Even though I grew up in a small town, I never let that stop me. Throughout junior and senior high school, I achieved prestigious awards in a wide range of academic competitions, including mathematics, statistics and research 🏅🏅🏅.
+🏆 As a high achiever, I am the first in my family to earn an engineering degree and secure a remarkable career in the competitive landscape of Singapore 🇸🇬. My thirst for knowledge is insatiable, and I embrace challenges with an unwavering commitment to success. I am not afraid to venture into uncharted territory and learn from my failures.
 
-I'm a high achiever. I'm the first person in my family that earns a degree in engineering and lands an exceptional job in the most competitive country in the world 🌏, i.e., Singapore 🇸🇬. The ability to acquire new knowledge is my greatest strength. When it comes to trying new things and failing, I'm not afraid to do so. It is impossible for me to be stopped. In order to succeed in both my career and personal life, I put in long hours and go the extra mile.
+📌  If you're interested in discussing data science or machine learning topics, feel free to connect with me.  I am passionate about solving complex global challenges by fostering interdisciplinary collaborations and expanding my professional network 💼
 
-💼 To deal with complex problems in our world, I love expanding my connection to establish a radical collaboration between inter-disciplinary domains.
-
-📌 Please do not hesitate to reach out if you want to discuss data science or machine learning topics with me.
 
 <a href="https://www.linkedin.com/in/mhilmiasyrofi/">
-  <img align="left" alt="Hilmi's LinkedIn" width="22px" style="margin: 5px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Hilmi's LinkedIn" width="22px" style="margin: 5px;" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
 </a>
 
 <a href="https://www.kaggle.com/mhilmiasyrofi">

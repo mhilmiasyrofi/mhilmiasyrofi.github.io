@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AI Enthusiast"
+title                    : "ML Architect"
 title_separator          : "-"
 name                     : &name "Hilmi"
 description              : &description "AI Enthusiast @ Singapore"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hilmi"
   avatar           : "hilmi.png"
-  bio              : "Kaggle Data Science Expert"
+  bio              : "Architecting Machine Learning in the Cloud"
   location         : "Singapore"
   employer         :
   pubmed           :
