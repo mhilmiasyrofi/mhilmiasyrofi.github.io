@@ -10,17 +10,24 @@ redirect_from:
 Hey there <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='25px'>
 ======
 <br>
-🧑‍💻 I'm Hilmi, a seasoned Data Scientist with extensive experience in architecting machine learning solutions in the Cloud. Currently, I hold the role of a Machine Learning Engineer at PropertyGuru Singapore, where I specialize in transforming machine learning projects into revenue-generating solutions while optimizing business operations. Notably, I have successfully delivered a B2B solution known as [the Automated Valuation Model, which is actively utilized by enterprise customers](https://www.linkedin.com/posts/knight-frank-malaysia_knightfrank-knightfrankmalaysia-partnersinproperty-activity-7051073263258529792-5Lct?utm_source=share&utm_medium=member_desktop), including banks and real estate consultants in Malaysia.
 
-📊 I possess a robust background in analytics and programming. I've made significant contributions to the field by publishing seven papers on Trustworthy Artificial Intelligence in top-tier international conferences and journals, under the guidance of [ACM Distinguished Scientist Prof David Lo](http://www.mysmu.edu/faculty/davidlo/). Additionally, my expertise in Data Science, particularly in the domains of NLP (Natural Language Processing) and CV (Computer Vision), is exemplified by my profile as a [Kaggle Competitions Expert](https://www.kaggle.com/mhilmiasyrofi/competitions). I also hold an AWS Certified Solution Architect certification, affirming my ability to effectively productionize machine learning projects.
+🧑‍💻 I'm Hilmi, a passionate Machine Learning Engineer with over 5 years of experience! I specialize in architecting and productionizing advanced ML models that drive business value. My expertise encompasses software development, cloud-based machine learning, and cross-functional collaboration to deliver high-impact, scalable solutions.
 
-📝 [Resume](https://mhilmiasyrofi.github.io/files/Resume.pdf)  📚 [Portfolio](https://mhilmiasyrofi.github.io/portfolio/)
+💼 I'm currently working as a Data Scientist at PropertyGuru Singapore, where I transform ML projects into revenue-generating solutions. A key highlight of my work includes:
 
-🌱 My journey began in a small rice-farming village in Indonesia, where I nurtured a passion for exploration. Despite my humble origins, I relentlessly pursued excellence, earning numerous awards in mathematics, statistics, and research during my junior and senior high school years 🏅🏅🏅
+- Led the development of an [Automated Valuation Model](https://www.linkedin.com/posts/knight-frank-malaysia_knightfrank-knightfrankmalaysia-partnersinproperty-activity-7051073263258529792-5Lct): an enterprise-grade B2B product that automates property appraisals for banks and real estate consultants across Malaysia, streamlining their workflows and enhancing decision-making.
+- Architected a Regional Dynamic Pricing System: This system significantly enhanced operational efficiency, improved pricing accuracy, and [boosted quarterly revenue by $3.75 million (~11% YoY)](https://investors.propertygurugroup.com/financials/quarterly-results/default.aspx). By automating the pricing process, we increased price update frequency from bi-weekly to daily, optimizing market responsiveness.
 
-🏆 As a high achiever, I am the first in my family to earn an engineering degree and secure a remarkable career in the competitive landscape of Singapore 🇸🇬. My thirst for knowledge is insatiable, and I embrace challenges with an unwavering commitment to success. I am not afraid to venture into uncharted territory and learn from my failures.
+📝 [Resume](https://mhilmiasyrofi.github.io/files/Resume.pdf)  🌱 [Portfolio](https://mhilmiasyrofi.github.io/portfolio/)  📚 [Publication](https://scholar.google.com/citations?hl=en&gmla=AHoSzlVjlJfs9P5F7daxNp8ox9wq_Q8KX_J9v7JKRxiSyoHyzck5IJ-ymOODTLiaDxOzn2jiYqA6uSFGDfCuk63g7swb&user=6F-76moAAAAJ)
 
-📌  If you're interested in discussing data science or machine learning topics, feel free to connect with me.  I am passionate about solving complex global challenges by fostering interdisciplinary collaborations and expanding my professional network 💼
+📊 I posses a solid foundation in both machine learning and software engineering. I’ve contributed to cutting-edge research, publishing 7 papers in top-tier international conferences and journals with the guidance of ACM Distinguished Scientist [Prof David Lo](http://www.mysmu.edu/faculty/davidlo/).
+
+🏅 I hold an AWS Certified Solution Architect certification, underscoring my capability to productionize ML projects in the cloud. My technical expertise in Natural Language Processing (NLP) and Computer Vision (CV) is further demonstrated by my standing as a [Kaggle Competitions Expert](https://www.kaggle.com/mhilmiasyrofi/competitions).
+
+🌟 Beyond my professional endeavors, I’m dedicated to continuous learning and personal growth. Whether it’s engaging in tech events or staying active with tennis and golf, I’m always on the lookout for new challenges and opportunities to grow!
+
+📌 You can reach out to me via mhilmiasyrofi(at)gmail.com
+
 
 
 <a href="https://www.linkedin.com/in/mhilmiasyrofi/">
