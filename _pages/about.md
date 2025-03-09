@@ -15,19 +15,20 @@ redirect_from:
     <img align="right" height="22px" src="https://vbr.nathanchung.dev/badge?page_id=mhilmiasyrofi.mhilmiasyrofi&style=for-the-badge&logo=Github" />
   </a>
   <a href="https://scholar.google.com/citations?hl=en&gmla=AHoSzlVjlJfs9P5F7daxNp8ox9wq_Q8KX_J9v7JKRxiSyoHyzck5IJ-ymOODTLiaDxOzn2jiYqA6uSFGDfCuk63g7swb&user=6F-76moAAAAJ">
-    <img align="right" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" />
+    <img align="right" width="120px" style="margin: 5px; margin-top: 7px;" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" />
   </a>
   <a href="https://leetcode.com/mhilmiasyrofi/">
-    <img align="right" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" />
+    <img align="right" width="80px" style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" />
   </a>
   <a href="https://www.kaggle.com/mhilmiasyrofi">
-    <img align="right" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
+    <img align="right" width="60px" style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
   </a>
   <a href="https://www.linkedin.com/in/mhilmiasyrofi/">
-    <img align="right" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
+    <img align="right" width="80px" style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
   </a>
 </h2>
 
+<br>
 I'm Hilmi, a Machine Learning Engineer with over 5 years of experience designing, deploying, and optimizing scalable, cloud-native AI solutions. My expertise lies in 𝐝𝐫𝐢𝐯𝐢𝐧𝐠 𝐢𝐦𝐩𝐚𝐜𝐭𝐟𝐮𝐥 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐨𝐮𝐭𝐜𝐨𝐦𝐞𝐬 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐜𝐫𝐨𝐬𝐬-𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧.
 
 Currently, I’m a Data Scientist at PropertyGuru Singapore, focusing on delivering high-impact data-driven products:
