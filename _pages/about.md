@@ -31,7 +31,7 @@ redirect_from:
 <br>
 I'm Hilmi, a Machine Learning Engineer with over 5 years of experience designing, deploying, and optimizing scalable, cloud-native AI solutions. My expertise lies in 𝐝𝐫𝐢𝐯𝐢𝐧𝐠 𝐢𝐦𝐩𝐚𝐜𝐭𝐟𝐮𝐥 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐨𝐮𝐭𝐜𝐨𝐦𝐞𝐬 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐜𝐫𝐨𝐬𝐬-𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧.
 
-Currently, I’m a Data Scientist at PropertyGuru Singapore, focusing on delivering high-impact data-driven products:
+I'm a 𝐒𝐢𝐧𝐠𝐚𝐩𝐨𝐫𝐞 𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐑𝐞𝐬𝐢𝐝𝐞𝐧𝐭 currently working as a Data Scientist at PropertyGuru Singapore, focusing on delivering high-impact, data-driven products:
 
 - 𝐀𝐝𝐬 𝐏𝐫𝐢𝐜𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦 𝐟𝐨𝐫 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜𝐞: Developed a demand-supply-based pricing engine leveraging advanced analytics and LLM-powered anomaly detection, resulting in an [11% year-over-year revenue increase](https://www.propertygurugroup.com/newsroom/propertyguru-reports-second-quarter-2024-results/#:~:text=Marketplaces%20revenues%20increased%2011%25%20year%20over%20year) ($35M → $39M) across Southeast Asian markets. [ [ Regional Ads Pricing ](https://www.linkedin.com/posts/mhilmiasyrofi_createwhatsnext-wearegurus-activity-7246466001024794624-JoZF/) ]
 
@@ -39,7 +39,7 @@ Currently, I’m a Data Scientist at PropertyGuru Singapore, focusing on deliver
 
 🏅 I'm an AWS Certified Solutions Architect and ML Specialist, a Kaggle Competitions Expert (top 1.5%), and an AWS Community Builder 𝐫𝐞𝐜𝐨𝐠𝐧𝐢𝐳𝐞𝐝 𝐟𝐨𝐫 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬 𝐢𝐧 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠.
 
-📊 With a solid foundation in both software engineering and machine learning, I’ve contributed to cutting-edge research in 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐟𝐨𝐫 𝐀𝐈-𝐞𝐧𝐚𝐛𝐥𝐞𝐝 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 (SE4AI), by publishing 7 𝐩𝐚𝐩𝐞𝐫𝐬 𝐢𝐧 𝐭𝐨𝐩-𝐭𝐢𝐞𝐫 𝐢𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐜𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬 𝐚𝐧𝐝 𝐣𝐨𝐮𝐫𝐧𝐚𝐥𝐬 with the guidance of ACM Distinguished Scientist [Prof David Lo](https://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en).
+📊 With a solid foundation in both software engineering and machine learning, I’ve contributed to cutting-edge research in 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐟𝐨𝐫 𝐀𝐈-𝐞𝐧𝐚𝐛𝐥𝐞𝐝 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 (SE4AI), by publishing 7 𝐩𝐚𝐩𝐞𝐫𝐬 𝐢𝐧 𝐭𝐨𝐩-𝐭𝐢𝐞𝐫 𝐢𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐜𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬 𝐚𝐧𝐝 𝐣𝐨𝐮𝐫𝐧𝐚𝐥𝐬 with the guidance of ACM Distinguished Scientist [Prof David Lo](https://scholar.google.com/citations?user=Ra4bt-oAAAAJ&hl=en).  [ [Recommendation Letter](https://drive.google.com/file/d/1qCdfXv_gRqM1UB9iHie23PyrVX36dK8G/view) ]
 
 ⛳ Beyond my professional work, I'm passionate about 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐠𝐫𝐨𝐰𝐭𝐡. You’ll find me regularly engaging in industry events, or on the tennis courts and golf courses building professional connections.
 
