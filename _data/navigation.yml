@@ -3,21 +3,24 @@ main:
 
   - title: "CV"
     url: /cv/
-  
+
   - title: "Publication"
     url: /publication/
-  
+
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /talks/
 
   # - title: "Teaching"
-  #   url: /teaching/    
-    
+  #   url: /teaching/
+
   - title: "Portfolio"
     url: /portfolio/
-        
+
+  - title: "Happy Birthday Del 🌸"
+    url: /deluca/
+
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
+
   # - title: "Guide"
   #   url: /markdown/
