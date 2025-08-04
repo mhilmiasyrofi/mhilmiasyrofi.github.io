@@ -5,22 +5,22 @@ title: ""
 author_profile: true
 ---
 
-<h2>
-  Hey Queen 👸🏻 <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='25px'>
-</h2>
-
-Like a *preserved flower* 🌸, you carry your essence no matter the season, **grace**, **grit**, and the kind of **ambition** that keeps moving forward
-
-
-<br><img src='/images/deluca/flower.jpg' width="550" height="565">
+Built as a grand gesture of eternal love, the Temple of Leah holds stories in every stone, every echo of wind through the statues.
 
 <br/>
 
-Whatever mountain or dream you're climbing next,
-I hope today reminds you:
+<br><img src='/images/deluca/del-at-temple.jpg' width="585" height="753">
 
-> *You're already enough, and your story’s still unfolding*
+We didn’t talk much, didn’t need to.
 
-**Happy Birthday, Del 🌹**
+> *Some places are meant to be felt, not explained*
 
-May this year be gentle and quietly bold, just like you yaaa ✨
+<br/>
+
+<br><img src='/images/deluca/stranger-at-temple.jpg' width="585" height="753">
+
+A stranger proposed in the middle of the hall while a live violin played. It was all a bit surreal. Beautiful, even ✨
+
+<br/>
+
+Maybe one day, our paths will lead us back here... if fate is kind enough
