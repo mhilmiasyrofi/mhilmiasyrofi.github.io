@@ -27,3 +27,6 @@ Maybe one day, our paths will lead us back here... if fate is kind enough ✨
 <br/>
 <br/>
 
+<a href="https://vbr.nathanchung.dev/badge?page_id=mhilmiasyrofi.mhilmiasyrofi&style=for-the-badge&logo=Github">
+    <img align="right" height="0px" src="https://vbr.nathanchung.dev/badge?page_id=mhilmiasyrofi.mhilmiasyrofi&style=for-the-badge&logo=Github" />
+</a>
