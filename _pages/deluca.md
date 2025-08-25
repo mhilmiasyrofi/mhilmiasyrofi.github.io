@@ -25,6 +25,9 @@ It was a little surreal—beautiful, even.
 And maybe, one day, life will lead us back here...
 not because we planned it, but because the path decided so ✨
 
+For now, distance has its own place too, like silence between notes,
+or space between pillars. It doesn’t erase what’s there, it just holds it differently.
+
 <br/>
 <br/>
 
